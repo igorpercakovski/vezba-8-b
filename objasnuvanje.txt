@@ -1,0 +1,2 @@
+na istiot pipeline dodadov snap file operations za move na originalniot file i dodadov project error
+kade bi ja zapisal greskata ako nastane ( vo slucajov nastana i taa e zapisana vo proektot error so go kreirav)
